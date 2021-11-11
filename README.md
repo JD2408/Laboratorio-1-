@@ -198,6 +198,8 @@ AMARILLO, VIOLETA, ROJO, PLATEADO
 
 ### CAPÍTULO 2
 
+https://www.youtube.com/watch?v=-RVd-3s0OpQ
+
 ## 5. CONCLUSIONES
 - Se apreciò que la Notaciòn Cientìfica y la Notaciòn de Ingenieria son muy similares, sin embagro su diferencia radica en que la Notaciòn de Ingenieria el exponente de la base 10 debe ser multiplo de 3.
 - En conclusion las operaciones con estas notaciòn son muy similares a las que se realizan normalmente, pero se debe tener en cuenta las leyes de los exponentes, asi como sus bases.
