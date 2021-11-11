@@ -23,6 +23,7 @@
 - Distinguir los diferentes metodos de mediciòn para las magnitudes fisicas propuestas.
 - Reconocer lo que es una fuente de voltaje y una fuente de corriente.
 - Illustrar la manera correcta de aplicar las medidas de seguirdad bàsicas en un circuito.
+- 
 ## 2. MARCO TEÓRICO
 ***Capitulo 1***
 
