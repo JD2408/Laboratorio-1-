@@ -31,6 +31,8 @@
 ***Capitulo 2***
 ![Diagrama en blanco](https://user-images.githubusercontent.com/94129932/141340217-c1169aca-8cbb-4f2f-a5a2-bae706d6e04f.png)
 
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/94129932/141343957-c1e4c102-c64a-4912-9ccb-e5d9c57a504c.png)
+
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
 ### CAPÍTULO 1
