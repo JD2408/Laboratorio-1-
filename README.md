@@ -188,6 +188,7 @@ La fuente de potencia convierte voltaje de Ca en voltaje de Cd
 
 15.  ¿Cuál es la resistencia indicada por 4K7?
 
+
 AMARILLO, VIOLETA, ROJO, PLATEADO
 
 
