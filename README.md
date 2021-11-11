@@ -35,6 +35,8 @@
 
 ![Diagrama en blanco (3)](https://user-images.githubusercontent.com/94129932/141363690-2b28ce2e-08bd-4ecc-a478-6a3f12bea82e.png)
 
+![Diagrama en blanco (4)](https://user-images.githubusercontent.com/94129932/141367034-c16c23f6-5a7c-402e-b23c-4f77d799fffa.png)
+
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
