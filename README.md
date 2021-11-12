@@ -196,6 +196,8 @@ AMARILLO, VIOLETA, ROJO, PLATEADO
 ## 4. VIDEOS
 ### CAPÍTULO 1
 
+https://youtu.be/rI7Gy-4i3Lg
+
 ### CAPÍTULO 2
 
 https://www.youtube.com/watch?v=-RVd-3s0OpQ
